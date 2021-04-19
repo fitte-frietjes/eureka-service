@@ -1,4 +1,4 @@
-package com.fittefrietjes.gateway;
+package com.fittefrietjes.eurekaservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
